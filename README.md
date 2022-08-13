@@ -1,1 +1,1 @@
-# script-iac-dio
+# Basic scripts created during DIO Linux Experience Bootcamp
